@@ -36,4 +36,9 @@ All models are sized to make hex stamps to match the exact size of
 regular hexstickers (2 inch from tip to tip). We printed the models with
 a raft, but without the use of any support structure. The stamp is
 printed from the handle up - the overhang is low enough to not break
-(using a fine print \~.13mm).
+(using a fine print
+\~.13mm).
+
+<img alt="cookies" src="images/IMG_1842.png" align="right" width = "290"/>
+<img alt="cookies" src="images/IMG_1831.png" align="right" width = "290"/>
+<img alt="cookies" src="images/IMG_1832.png" align="right" width = "290"/>
