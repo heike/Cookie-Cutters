@@ -39,6 +39,6 @@ printed from the handle up - the overhang is low enough to not break
 (using a fine print
 \~.13mm).
 
+<img alt="cookies" src="images/IMG_1832.png" align="right" width = "30%"/>
 <img alt="cookies" src="images/IMG_1842.png" align="left" width = "30%"/>
 <img alt="cookies" src="images/IMG_1831.png" align="middle" width = "30%"/>
-<img alt="cookies" src="images/IMG_1832.png" align="right" width = "30%"/>
